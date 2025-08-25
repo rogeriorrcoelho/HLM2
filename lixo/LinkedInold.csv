@@ -1,0 +1,413 @@
+empresa,cargo,descritivo,skill
+Deloite,AC,"Consultor(a) no time de Business Agility no business da Consultoria Empresarial. Aqui você terá a oportunidade de ser protagonista de sua carreira  e de gerar impactos e transformações positivas em seu redor. Na sua rotina  você irá:
+ 
+ Incentivar a adesão das pessoas ao mindset ágil  seja qual for a prática (Scrum ou Kanban) que faça sentido para o negócio do cliente 
+ Nortear os times em Scrum e Kanban 
+ Participar das cerimônias junto com o time ágil 
+ Remover os impedimentos do time 
+ Participar junto ao time dos diagnósticos avaliando o cenário e maturidade  envolvendo processos  pessoas e ferramentas através de métricas 
+ Compartilhar conhecimentos e atuando para que a as áreas e pessoas trabalhem de forma colaborativa 
+ Incentivar a adesão das pessoas nas práticas ágeis 
+ Exercer o papel de facilitador quando necessário entre as partes interessadas 
+ Promover workshops  dojos  jogos para os times e melhoria contínua por meio de técnicas de gamification  no momento adequado 
+ Apoiar os times nos modelos de desenvolvimento (Kanban e Scrum) 
+ Apoiar o time em sua autoavaliação de maturidade através da utilização do radar ágil 
+ Divulgar as informações relativas às métricas  satisfação do cliente  maturidade e produtividade (ratificação).","Kanban
+ Collaborative Environment
+ 
+ Add
+ Easily Adaptable
+ 
+ Add
+ Makeovers
+ 
+ Add
+ Management Consulting
+ 
+ Add
+ Radar
+ 
+ Add
+ Self Assessment
+ 
+ Add
+ Social Services
+ 
+ Add
+ Spare Automotive Parts
+ 
+ Add
+ Telemedicine"
+B3,AC,"Principais responsabilidades:
+ Experiência como Scrum Master  Agile Master ou Service Delivery 
+ Experiência na aplicação de metodologias ágeis para projetos de tecnologia 
+ Habilidade para identificar e resolver problemas complexos 
+ Experiência em ferramentas de gestão ágil de projetos de tecnologia (e.g. JIRA  Confluence 
+ Implementação de métricas de Discovery e delivery junto aos times  bem como apoio na análise  construção de dashboards  entendimento do time e melhoria contínua 
+ Estimular a auto-organização do time 
+ Ser um facilitador do time para remoção de impedimentos e trâmites com áreas cross.
+ 
+ O que esperamos de você:
+ Ter a formação completa 
+ Ter conhecimento em Kanban 
+ Ter conhecimento em Scrum 
+ Ter conhecimento em Jira 
+ Ter conhecimento em Safe 
+ Ter conhecimento em Métricas 
+ Ter conhecimento em Visão sistêmica 
+ Ter conhecimento de Fluxo de Entrega continua 
+ Ter o inglês a partir do nível Básico.
+ 
+ Será um diferencial você conhecer sobre:
+ Nexus 
+ Less 
+ Team Topologies 
+ PDCA 
+ Easi BI 
+ Especialização em Agilidade (Desejável) 
+ Certificações: KSD  PSM  Safe Agilist (Desejável).","Agile Project Management
+ Dashboards
+ Jira
+ Kanban
+ LESS (Stylesheet Language)
+ 
+ Add
+ Nexus
+ 
+ Add
+ PDCA Cycle
+ 
+ Add
+ PSM
+ 
+ Add
+ Service Delivery
+ 
+ Add
+ User Acceptance Testing"
+Foursys,SM,"Responsabilidades e Atribuições
+ 
+ 
+ Ter liderado pessoas em produtos gerindo todo o seu ciclo de vida.
+ Especialização no fluxo de trabalho.
+ Vivência como Agile/ Scrum Master atuando em atividades operacionais do dia a dia.
+ Entendimento e visão baseada em métricas e indicadores.
+ Vivência como facilitador de ideações de produtos.
+ 
+ Conhecimento Técnico
+ 
+ 
+ Conhecimento de Gestão de Projetos (Waterfall + Ágil).
+ Experiência com transformação digital  Hands On.
+ Diferencial já ter atuado com métrica  negociações e prazos.
+ OKR/User Story Mapping  Lean Inception  PPB  Scrum  SAFe  Kanban  Lean  Jira  Swit.io  Trello  Design Sprint  Design Thinking  Miro e Mura.
+ 
+ Certificações
+ 
+ 
+ Desejável Certificação em Scrum Master.
+ 
+ Formação Acadêmica
+ 
+ 
+ Superior completo.","Design Thinking
+ Kanban
+ Negotiation
+ Project Management
+ Scrum
+ Courses
+ 
+ Add
+ Fostering inclusivity
+ 
+ Add
+ Instruction
+ 
+ Add
+ Metrics
+ 
+ Add
+ Trello"
+F1rst,SM,"Garantir que o time entenda a essência de cada cerimonia e seus resultados.
+ 
+ Garantir que todas as cerimonias sejam realizadas.
+ 
+ Participar de todas as cerimonias.
+ 
+ Provocar o sentimento de dono no time.
+ 
+ Identificar capacity do time.
+ 
+ Histórias
+ 
+ Garantir histórias INVEST e o entendimento do time.
+ 
+ Os nomes das historias devem ser claros e padronizados. Ex: “[Vinculo PF no PJ] – Gerenciador de usuários”.
+ 
+ Historias não devem ser clonadas e não podem possuir conteúdo duplicado.
+ 
+ Backlog (Em conjunto com o PO)
+ 
+ Manter backlog atualizado.
+ 
+ Manter backlog priorizado.
+ 
+ Garantir que existam histórias prontas para o próximo refinamento.
+ 
+ Garantir que existam historias DOR para atender a capacidade do time na próxima Sprint.
+ 
+ DOR
+ 
+ Garantir a existência do DOR
+ 
+ Mantê-lo atualizado.
+ 
+ Garantir que o time conheça o DOR
+ 
+ Refinamento
+ 
+ Ancora
+ 
+ Garantir que o time tenha a Ancora.
+ 
+ Garantir o entendimento da Ancora pode todos do time.
+ 
+ Revisa-la de tempos em tempos.
+ 
+ Participação efetiva
+ 
+ Garantir que o time tire todas as dúvida sobre a história.
+ 
+ Para que a historia esteja no status de refinada não podem haver dúvidas quanto a mesma.
+ 
+ Pontuação
+ 
+ Utilizar planning poker.
+ 
+ Garantir que todos do time tem o mesmo entendimento da história (Mesmo que o integrante não vá participar do desenvolvimento).
+ 
+ DOR
+ 
+ Utilizar o DOR como checklist e garantir que todos os pontos foram atendidos.
+ 
+ Planejamento
+ 
+ Não planejar histórias sem DOR.
+ 
+ Caso necessário rodar novamente o planning poker.
+ 
+ Os post-its devem ser escritos durante o planejamento.
+ 
+ A tarefas devem ser inseridas no Jira durante o planejamento.
+ 
+ Para não ficar muito trabalhoso para cada história 1 integrante escreve os post-its e outro integrante insere as tarefas no Jira  na próxima história passar a tarefa para outros 2 integrantes.
+ 
+ Imediatamente após o fim do planejamento iniciar a Sprint no Jira.","Scrum
+ History
+ 
+ Add
+ Operating Systems
+ 
+ Add
+ Planning
+ 
+ Add
+ Poker
+ 
+ Add
+ Punctuation
+ 
+ Add
+ TEM"
+F1rst,AC,"Formação em TI  Engenharia da Computação  Ciências da Computação ou áreas correlatas
+ 
+ Conhecimentos sólidos na área de Gestão de Projetos e/ou Desenvolvimento de Sistemas
+ Experiência como Agile Coach por pelo menos 2 anos (usando frameworks escalados  Scrum  Kanban e técnicas ágeis)
+ Atuação como Scrum Master  Agile Master e/ou Service Delivery Manager por pelo menos 4 anos
+ Pelo menos uma das seguintes certificações: PSM I ou II  PSPO I ou II (da Scrum.org)  Inglês básico (oral  escrita  leitura).
+ 
+ #Atividades e Desafios:
+ 
+ Atuar como Agile Coach Specialist das tribos do ágil escalado para ser um agente de transformação
+ Definir estratégia (o quê e o porquê)
+ Suportar a elaboração de requisitos de negócios
+ Estabelecer o escopo de iniciativas de transformação
+ Instruir elaboração de business case
+ Desenvolver padrões e requisitos para as práticas ágeis
+ Integrar as práticas ágeis aos demais métodos utilizados pelo banco
+ Participar ativamente da melhoria continua dos processos de gestão de projetos  produto  desenvolvimento de funcionalidades e release de software
+ Liderar pelo exemplo de boas práticas
+ Treinar os times nas práticas ágeis
+ Mentorar e conduzir os times na implementação e uso das práticas ágeis
+ Apoiar a facilitação de sessões de brainstorming  planning  refinamentos  retrospectivas  inception e outras cerimônias
+ Ajudar os times a navegar pelas ferramentas e softwares ágeis
+ Promover autogestão  ajudar os times a se comunicar de forma eficaz e apoiar na resolução de conflitos
+ Direcionar e suportar os times no dia a dia
+ Capacidade de gestão de fornecedores/parceiros
+ Promover um ambiente e cultura de melhoria contínua  experimentação e inovação
+ Incentivar e disseminar a cultura ágil no indivíduo  no time  na empresa e partes interessadas
+ 
+ # Requisitos Desejáveis
+ 
+ Experiência usando Jira e aplicando JQLs
+ Conhecimento de utilização do Confluence para documentações
+ Experiência na condução de Coach  Mentoring/Facilitação e Capacitação
+ Experiência na proposta de soluções end-to-end de Negócio e TI
+ Atuação em Mercado Financeiro
+ Experiência em temas complementares (desejáveis): design thinking  lean inception
+ Desejável experiência em gestão de mudanças","Agile Methodologies
+ Design Thinking
+ Kanban
+ Lean Processes
+ Business Case Preparation
+ 
+ Add
+ Confluence
+ 
+ Add
+ PSM
+ 
+ Add
+ Process Safety Management
+ 
+ Add
+ Scaled Agile Framework
+ 
+ Add
+ Service Delivery"
+Wipro,SM,"Controlar e alocar tarefas entre os times de desenvolvimento  Gerenciar problemas e dependências entre projetos (Scrum Master/Product Owner)  Elaborar propostas para melhoria continua de processos  Gerenciar riscos do projeto  Apoiar no planejamento das sprints  demos e retrospectiva  Gerenciar a expectativa do backLog de projetos com o Product Owner  Criar escalas variáveis para o time no atendimento de projetos  Remover impedimentos para o progresso do desenvolvimento  Facilitar e potencializar  ao máximo  o trabalho das equipes  deve sempre manter a colaboração e a comunicação entre os outros papéis  utilizando todo seu conhecimento em Scrum. Atuar no controle  estudo e elaboração de projetos Agile  controlando prazos de entregas  acompanhamento e alinhamento das atividades  Acompanhar o desenvolvimento de projetos e participar de reuniões de definição.
+ 
+ 
+ 
+ 
+ 
+ Requisitos:
+ 
+ 
+ Experiência e conhecimento na implementação de processos ágeis  na criação de modelo híbridos de desenvolvimento de sistemas (Cascata/Ágil). Análise de Sistemas  Boa gestão das relações interpessoais e capacidade de trabalhar em equipe  Conhecimento em investimento no mercado financeiro  Experiência e conhecimento na implementação de processos ágeis  Experiência na Criação/Transição de modelo híbridos de desenvolvimento de sistemas (Cascata/Ágil)  Gerenciamento de Problemas e dependências entre projetos (Scrum Master/Product Owner)  Experiência com ferramentas ágeis (Prototipação  Kanban  JIRA  BitBucket  Git)  Experiência com cerimônias do Scrum (Daily Meeting  Sprint Planning  Retrospectiva). Conhecimento no processo de DevSecOps e treinamento ou certificação em Scrum Master.","Communication
+ Jira
+ Scrum
+ Analytical Skills
+ 
+ Add
+ Interpersonal Relationships
+ 
+ Add
+ Problem Management
+ 
+ Add
+ Process Implementation
+ 
+ Add
+ Project Development
+ 
+ Add
+ Sprint Planning
+ 
+ Add
+ Teamwork"
+Certsys,AC,"Treinar equipes de desenvolvimento no framework scrum ou framework ageis 
+ Facilitar cerimonias do scrum tais: sprint planning  retrospectiva e sprint review 
+ Realizar coach com os membros do time para aumentar o potencial dos mesmos 
+ Resolver impedimentos dos projetos (ausência do PO  cultura da empresa e tudo que impede o autogerenciamento do time) 
+ Mentoria dos Times em práticas de engenharia de software e arquitetura de software tais: Devops  clear code  BDD  TDD  Testes automatizados  CI  CD 
+ Demonstrar para o cliente do projeto o que é scrum e suas práticas 
+ Ajudar o Product Owner a criar backlog de valor para o cliente 
+ Ajudar a organização na contratação e treinamento de pessoas para os projetos 
+ Ajudar e ensinar o time de desenvolvimento a ser autogerenciado.
+ 
+ Requisitos e Qualificações:
+ 
+ Do que você precisa:
+ 
+ 
+ Desejável Ensino Superior completo(a) em Ciência da Computação  Sistemas de Informação  Engenharia de Sistemas ou Similares 
+ Método Ágil (conhecimento em Scrum  Kanban  SAFe) 
+ Dashboards / Gestão por Indicadores e Métricas Ágeis 
+ Dados para tomada de decisão 
+ Processos e Ferramentas (Jira) 
+ Coach do time.
+ 
+ Será um diferencial e legal se você também tiver conhecimento:
+ 
+ 
+ Lean Agile 
+ Value Stream Mapping 
+ Gestão de Riscos 
+ Ferramentas de Discovery 
+ MGM 3.0 
+ Gestão de Projetos.","Coaching
+ Project Management
+ Scrum
+ Value Stream Mapping
+ Computer Science
+ 
+ Add
+ Decision-Making
+ 
+ Add
+ Engineering
+ 
+ Add
+ Microsoft Office
+ 
+ Add
+ Software Architecture
+ 
+ Add
+ Systems Engineering"
+Thomson,SM,"Manages and implements external and internal tools and applications.
+ Reviews and edits requirements  specifications  business processes and recommendations related to proposed solution.
+ Assists with research and development of functional specification and system design as directed.
+ Provides wider feedback as requested.
+ Researches  analyzes and resolves problems and issues with minimal supervision and escalate issues as appropriate.
+ Develops and implements large or complex projects and solutions.
+ Works on multiple projects with varying levels of complexity.
+ Manages own resources in accordance with project schedule.
+ Generates monthly and quarterly reports for trackable metrics.
+ Regularly communicates and shares knowledge with the rest of the team and department.
+ Participates in team and client meetings as requested.
+ Delivers informative  well-organized presentations.
+ Completes work within department  company  and industry standards  methodologies  and policies.
+ Consistently delivers high-quality services to clients.
+ Assists in establishing new processes and procedures.
+ Assist in preparing presentations for control owners and management.
+ 
+ About You
+ 
+ Bachelor s Degree or diploma
+ Demonstrable 5-8 years hands-on experienced with Scrum and Kanban methodologie
+ Good interpersonal skills and ability work with a mentor and servant-leader mindset Former experience as a project manager and knowledge of software development processes and procedures to understand team needs
+ Experience as Scrum Master in Fintechs and credit startups
+ Experience providing facilitation  situational awareness  conflict resolution  continual improvement  team empowerment and motivational techniques regarding Agile and Scrum/Kanban
+ Must be a certified Scrum Master  holding either a PSM or CSM
+ Experience managing expectations and building trusting relationships/partnerships
+ Ability to balance several projects across more than one team
+ Excellent verbal and written communication skills
+ 
+ Desired Skills:
+ 
+ Be an energetic  self-starter  who is comfortable in a team-oriented environment including the ability to clearly articulate daily individual accomplishments and blocking issues.
+ Demonstrated history of excellent analytical and problem-solving skills.
+ Demonstrated history of good decision-making  conflict resolution  and follow through","Facilitation
+ Kanban
+ Problem Solving
+ Business Process
+ 
+ Add
+ Conflict Resolution
+ 
+ Add
+ Interpersonal Communication
+ 
+ Add
+ Interpersonal Skills
+ 
+ Add
+ Situational Awareness
+ 
+ Add
+ Trusting Relationships
+ 
+ Add
+ Written Communication"
