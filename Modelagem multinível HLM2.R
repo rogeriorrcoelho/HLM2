@@ -155,7 +155,7 @@ df_cidade$sal_med <- gsub(",", ".", df_cidade$sal_med) # substitui vírgulas por
 df_cidade$sal_med <- as.numeric(df_cidade$sal_med) # converte para numérico
 
 ###################################################################
-pedidos <- read.csv("TCC_Fato_Pedido_Novo.csv", header = TRUE)
+pedidos <- read.csv("Fato_Pedido_Novo_tc.csv", header = TRUE)
 dados_f_pedidos <- pedidos[,c("id_pedido", "id_cliente", "id_cidade", "id_produto", "qtd_tot_gr", "Preço_Venda", "Total_Pedido")]
 dados_f_pedidos$id_produto <- as.factor(dados_f_pedidos$id_produto)
 dados_f_pedidos$id_cidade <- as.factor(dados_f_pedidos$id_cidade)
@@ -178,7 +178,7 @@ dados_f_pedidos <- dados_f_pedidos %>%
 
 ###################################################################
 
-#pedidos <- read.csv("TCC_Fato_Pedido.csv", header = TRUE)
+#pedidos <- read.csv("Fato_Pedido.csv", header = TRUE)
 #dados_f_pedidos <- pedidos[,c("id_pedido", "id_cliente", "id_cidade", "id_produto", "Dt_Pedido", "Preço_Venda", "Total_Pedido")]
 #dados_f_pedidos$id_produto <- as.factor(dados_f_pedidos$id_produto)
 #dados_f_pedidos$id_cidade <- as.factor(dados_f_pedidos$id_cidade)
@@ -678,5 +678,5 @@ data.frame(OLS_Nulo = logLik(modelo_ols_nulo),
 
 #############################################################
 #grava o data frame em arquivo
-save(fato_pedidos, file = "TCC_dados.RData")
+save(fato_pedidos, file = "dados.RData")
 
