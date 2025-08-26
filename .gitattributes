@@ -1,0 +1,21 @@
+# Força contagem como R
+*.R linguist-language=R
+
+# R Markdown e notebooks fora da contagem principal
+*.Rmd linguist-documentation
+*.ipynb linguist-vendored
+
+# Pastas comuns de projeto R
+.Rproj.user/** linguist-vendored
+renv/** linguist-vendored
+packrat/** linguist-vendored
+
+# Dados e saídas (normalmente não são "código-fonte")
+data/** linguist-vendored
+outputs/** linguist-vendored
+figures/** linguist-vendored
+
+# Configurações/CI
+.github/** linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
