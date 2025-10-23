@@ -4,7 +4,7 @@
 Análise dos preços dos pedidos por meio da modelagem multinível.
 
 <p align="center">
-  <img src="/imagens/Pplot.jpeg" />
+  <img src="/imagens/Rplot.jpeg" />
 </p>
 
 ---
@@ -25,9 +25,6 @@ Este projeto visa estudar os relacionamentos, padrões e comportamentos do consu
 - A análise multinível permite considerar contextos sociais e atores individuais, com o valor dos pedidos como nível mais baixo e a cidade como primeiro nível.
 - A maioria dos clientes ativos é do sexo feminino. O número de pedidos por sexo acompanhou a razão de 9 para 1 em favor das mulheres, sugerindo papel fundamental delas na promoção de hábitos alimentares mais saudáveis.
 
-<p align="center">
-  <img src="/imagens/tab_cad_cliente.jpeg" />
-</p>
 
 ---
 
@@ -37,14 +34,6 @@ Este projeto visa estudar os relacionamentos, padrões e comportamentos do consu
 - Não há correspondência clara entre tamanho populacional e número de pedidos, mas há entre valor médio do pedido e quantidade média de produtos.
 - A visualização por boxplot revelou outliers, que refletem clientes recorrentes e não devem ser removidos.
 - A sazonalidade e datas comemorativas influenciam os valores dos pedidos, produzindo outliers valiosos para análise.
-
-<p align="center">
-  <img src="/imagens/tab_desbalanceamento.jpeg" />
-</p>
-
-<p align="center">
-  <img src="/imagens/vl_medio_pedido.jpeg" />
-</p>
 
 ---
 
